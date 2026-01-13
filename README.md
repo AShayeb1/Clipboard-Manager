@@ -1,9 +1,16 @@
-# 📋 Clipboard Manager
+# 📋 Clipboard Manager v1.1
 
 ![Image](https://github.com/user-attachments/assets/a3558cd9-c264-4e77-b4e6-889e5c754354)
 
 ## 📝 Program Idea
 **Clipboard Manager** is a professional desktop application that keeps a history of everything you copy to the clipboard. It lets you quickly access and restore previously copied items with ease. The app runs in the background and automatically monitors the clipboard to save every text or link you copy.
+
+## 🆕 What's New in v1.1
+- **UI Improvements**:
+  - Dedicated **Pin** and **Delete** buttons for easier access.
+  - **Dynamic Layout**: Buttons automatically appear on the logical side (Right for English, Left for Arabic).
+  - **Modern Scrollbar**: Thinner, transparent overlay scrollbar.
+  - **Compact Design**: Optimized spacing and icon sizes.
 
 ## ✨ Main Features
 
@@ -59,11 +66,19 @@ Access settings by clicking the ⚙️ icon in the app interface.
 ├── groups.json    # Groups and saved items
 ├── settings.json  # Application settings
 
-# 📋 Clipboard Manager
+# 📋 Clipboard Manager v1.1
+
 
 ## 📝 فكرة البرنامج
 
 **Clipboard Manager** هو تطبيق سطح مكتب احترافي يقوم بحفظ سجل لكل ما تنسخه إلى الحافظة، مما يتيح لك الوصول السريع إلى العناصر المنسوخة السابقة واستعادتها بسهولة. يعمل البرنامج في الخلفية ويراقب الحافظة تلقائياً ليحفظ كل نص أو رابط تقوم بنسخه.
+
+## 🆕 الجديد في الإصدار v1.1
+- **تحسينات واجهة المستخدم**:
+  - أزرار مخصصة لـ **التثبيت** و **الحذف** لسهولة الوصول.
+  - **تنسيق ديناميكي**: تظهر الأزرار تلقائياً في الجهة المناسبة (يمين للإنجليزية، يسار للعربية).
+  - **شريط تمرير عصري**: شريط تمرير رفيع وشفاف (Overlay Style).
+  - **تصميم مدمج**: تحسين المسافات وحجم الأيقونات لاستغلال أفضل للمساحة.
 
 ## ✨ الميزات الرئيسية
 
@@ -127,4 +142,5 @@ Access settings by clicking the ⚙️ icon in the app interface.
 
 
 </div>
+
 
