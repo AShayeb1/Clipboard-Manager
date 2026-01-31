@@ -1,4 +1,4 @@
-# 📋 Clipboard Manager v1.1
+# 📋 Clipboard Manager
 
 ![Image](https://github.com/user-attachments/assets/9de5935b-219e-4a81-9c23-810fc84514b0)
 
@@ -152,6 +152,7 @@ Access settings by clicking the ⚙️ icon in the app interface.
 
 
 </div>
+
 
 
 
